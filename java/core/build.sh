@@ -1,2 +1,2 @@
 #! /bin/sh
-javac HelloWorld.java
+javac HelloWorld.java Primitive.java
