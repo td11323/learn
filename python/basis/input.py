@@ -1,2 +1,2 @@
-x = input("your name:")
-print(x)
+x = input("your age:")
+print x
