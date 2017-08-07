@@ -20,3 +20,8 @@ $ sudo mv ./kubectl /usr/local/bin/kubectl
 ```bash
 $ kubectl cluster-info
 ```
+
+5. Enable autocompletion
+```bash
+$ echo "source <(kubectl completion bash)" >> ~/.bashrc
+```
